@@ -1,4 +1,6 @@
 ## Interface: 30300
 ## Title: SteakRoll
 ## Notes: Auto DE/greed greens, DE/greed BoP blues and epics that you can't roll Need on.
+## Version: 1.0.0
+## Author: SoonBeSteak
 Core.lua
